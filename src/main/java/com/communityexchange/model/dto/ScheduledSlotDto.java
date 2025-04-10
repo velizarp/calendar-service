@@ -12,8 +12,6 @@ import java.util.UUID;
 
 @Getter
 @Setter
-@NoArgsConstructor
-@AllArgsConstructor
 public class ScheduledSlotDto {
     
     private UUID id;
